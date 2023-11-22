@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Welcome to my GitHub repository! I'm Aparna from Canada, I'm passionate about data analytics and its applications. Here you'll find a collection of projects and work that showcase my skills, interests, and journey in the field of data analytics.
+Welcome to my GitHub repository! 
+
+### About Me
+
+I'm Aparna from Canada, I'm passionate about data analytics and its applications. Here you'll find a collection of projects and work that showcase my skills, interests, and journey in the field of data analytics.
 
 ### Skills
 
