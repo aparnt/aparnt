@@ -10,8 +10,6 @@ Welcome to my GitHub repository! I'm Aparna from Canada, I'm passionate about da
 - SQL
 - Data Visualization
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aparnt)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Connect with Me
 
 linkedin.com/in/aparna-thomas-5a1905286
